@@ -1,2 +1,2 @@
-# lista-exercicios-3_periodo
+# Lista de exercícios
 Lista contendo 10 exercícios em java com foco em Arrays.
